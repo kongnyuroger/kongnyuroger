@@ -1,6 +1,13 @@
 # 💫 About Me:
-<br>Full-stack developer passionate about building fast, reliable web apps using JavaScript, Python, React, Node.js, Currently improving my backend and API development skills. Always learning, always building.
+<br>
 
+Hi, I'm a Full-Stack Developer passionate about building scalable web applications and solving real-world problems through technology. I enjoy working across both the frontend and backend, turning ideas into functional and user-friendly products.
+
+My current focus includes developing modern web applications using JavaScript technologies, building REST APIs, and improving my knowledge of backend architecture and asynchronous systems.
+
+I’m always learning, experimenting with new technologies, and working on projects that improve my development skills.
+
+⚡ Interests: Web Development, Backend Systems, APIs, and Software Architecture.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kongnyu-roger-59b1a6322) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kongnyuroger) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rogerkt4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KongnyuRoger) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kongnyu Roger) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kongnyuroger711@gmail.com) 

@@ -3,7 +3,7 @@
 
 Hi, I'm a Full-Stack Developer passionate about building scalable web applications and solving real-world problems through technology. I enjoy working across both the frontend and backend, turning ideas into functional and user-friendly products.
 
-My current focus includes developing modern web applications using JavaScript technologies, building REST APIs, and improving my knowledge of backend architecture and asynchronous systems.
+My current focus includes developing modern web applications using JavaScript technologies and building REST APIs.
 
 I’m always learning, experimenting with new technologies, and working on projects that improve my development skills.
 
